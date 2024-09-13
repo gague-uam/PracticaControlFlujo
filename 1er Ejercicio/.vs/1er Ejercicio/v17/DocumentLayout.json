@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B714D0A1-C146-476F-B884-8B77FD1AD8F9}|NotasEstudiantes\\NotasEstudiantes.csproj|c:\\users\\kagab\\desktop\\practicacontrolflujo\\1er ejercicio\\notasestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B714D0A1-C146-476F-B884-8B77FD1AD8F9}|NotasEstudiantes\\NotasEstudiantes.csproj|C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio - copia\\notasestudiantes\\models\\generalgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B714D0A1-C146-476F-B884-8B77FD1AD8F9}|NotasEstudiantes\\NotasEstudiantes.csproj|solutionrelative:notasestudiantes\\models\\generalgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B714D0A1-C146-476F-B884-8B77FD1AD8F9}|NotasEstudiantes\\NotasEstudiantes.csproj|c:\\users\\kagab\\desktop\\practicacontrolflujo\\1er ejercicio\\notasestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotasEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio\\NotasEstudiantes.cs",
+              "RelativeDocumentMoniker": "..\\1er Ejercicio\\NotasEstudiantes.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio\\NotasEstudiantes.cs",
+              "RelativeToolTip": "..\\1er Ejercicio\\NotasEstudiantes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:33:09.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralGrade.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio - copia\\NotasEstudiantes\\Models\\GeneralGrade.cs",
+              "RelativeDocumentMoniker": "NotasEstudiantes\\Models\\GeneralGrade.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio - copia\\NotasEstudiantes\\Models\\GeneralGrade.cs",
+              "RelativeToolTip": "NotasEstudiantes\\Models\\GeneralGrade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:28:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotasEstudiantes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio\\NotasEstudiantes.cs",
+              "RelativeDocumentMoniker": "..\\1er Ejercicio\\NotasEstudiantes.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\1er Ejercicio\\NotasEstudiantes.cs [Design]",
+              "RelativeToolTip": "..\\1er Ejercicio\\NotasEstudiantes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:13:25.097Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
