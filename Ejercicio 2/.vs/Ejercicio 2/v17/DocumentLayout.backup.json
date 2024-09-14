@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEF3969-39AC-4766-96AA-039FBAD32E90}|Datos\\Datos.csproj|c:\\users\\kagab\\desktop\\practicacontrolflujo\\ejercicio 2\\datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CEF3969-39AC-4766-96AA-039FBAD32E90}|Datos\\Datos.csproj|solutionrelative:datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEF3969-39AC-4766-96AA-039FBAD32E90}|Datos\\Datos.csproj|c:\\users\\kagab\\desktop\\practicacontrolflujo\\ejercicio 2\\datos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEF3969-39AC-4766-96AA-039FBAD32E90}|Datos\\Datos.csproj|solutionrelative:datos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEF3969-39AC-4766-96AA-039FBAD32E90}|Datos\\Datos.csproj|c:\\users\\kagab\\desktop\\practicacontrolflujo\\ejercicio 2\\datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEF3969-39AC-4766-96AA-039FBAD32E90}|Datos\\Datos.csproj|solutionrelative:datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\Datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Datos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\Datos\\Form1.cs",
+              "RelativeToolTip": "Datos\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:50:21.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\Datos\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Datos\\clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\Datos\\clases\\Persona.cs",
+              "RelativeToolTip": "Datos\\clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:42:39.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\Datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Datos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\PracticaControlFlujo\\Ejercicio 2\\Datos\\Form1.cs [Design]",
+              "RelativeToolTip": "Datos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:28:31.35Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

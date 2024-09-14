@@ -1,0 +1,6 @@
+Hola profe, le quiero escribir este mensaje ya que el primer ejercicio por
+alguna razon cuando lo envié a mi repositorio no encontraba el nombre
+de las carpetas dentro del programa, lo que pasa es que me equivoque de 
+carpeta al iniciar el ejercicio y tuve que copiarla y pegarla en este
+que es donde tengo vinculado mi repositorio, pero al eliminar los otros
+archivos no verifique que el programa siguiera funcionando y hasta hoy me di cuenta, tuve que restaurarlos y la verdad no se cual de todos los archivos que están ahí serán realmente del ejercicio, pero parece que solo puede ejecutarse cuando estos existen. Mil disculpas por la confusión. Si sucede algún problema con los ejercicios por favor dígame y yo trato de resolverlo.

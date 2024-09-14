@@ -1,0 +1,10 @@
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\bin\Debug\Datos.exe.config
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\bin\Debug\Datos.exe
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\bin\Debug\Datos.pdb
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.Form1.resources
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.exe
+C:\Users\Kagab\Desktop\PracticaControlFlujo\Ejercicio 2\Datos\obj\Debug\Datos.pdb
